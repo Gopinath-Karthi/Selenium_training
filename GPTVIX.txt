@@ -1,0 +1,8 @@
+
+
+1. More option in the list should close while clicking outside
+2. In search text box - Search with client PLACEHOLDER text need to mention
+3. Allowing to enter text in Phone number field in Create client page
+4. Edit icon need to change 
+5. After Activate/Deactivate list is not getting updated and not showing success message
+6. Logout alert need to change 
