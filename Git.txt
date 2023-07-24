@@ -1,0 +1,16 @@
+Git - version control software or version control system 1.2 1.3 1.4 1.5 
+
+created by linux - linus torvels git 
+
+Git and Git hub - git hub is git provider ie microsoft 
+
+
+basic terminologies :
+
+
+1. Repositories - folder consist of all files related to project
+2. Readme - basic information / guidelines about the project
+3. Commit - save the project
+
+
+www.github.com
