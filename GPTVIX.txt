@@ -7,3 +7,4 @@
 5. After Activate/Deactivate list is not getting updated and not showing success message
 6. Logout alert need to change 
 7. new changes
+8. branch changes updated
