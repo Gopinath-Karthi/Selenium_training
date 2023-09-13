@@ -11,6 +11,7 @@ basic terminologies :
 1. Repositories - folder consist of all files related to project
 2. Readme - basic information / guidelines about the project
 3. Commit - save the project
+4. save the project 
 
 
 www.github.com ======== url for creating git hub account 
